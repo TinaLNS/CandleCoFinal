@@ -15,7 +15,7 @@ footer {
 .add-to-cart {
   text-align: right;
 }
-}
+
 background {
   color: beige;
 }
@@ -24,8 +24,8 @@ background {
   width: 18rem;
 }
 .card {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-bottom: 100px;
 }
 .about-section {
@@ -50,3 +50,4 @@ background {
 h5 {
   font-weight: bold;
 }
+
